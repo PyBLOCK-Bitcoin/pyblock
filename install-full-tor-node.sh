@@ -4,7 +4,7 @@
 
 REPO_URL="https://github.com/bitcoinknots/bitcoin.git"
 
-VERSION=29.1.knots20250903
+VERSION=29.2.knots20251010
 
 TARGET_DIR=$HOME/bitcoin-knots
 PORT=8333
