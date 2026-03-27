@@ -390,12 +390,6 @@ Note that if you do not find a Block, you get no reward at all with Solo Mining.
 
 <img src="https://pbs.twimg.com/media/GB5nZ-oXQAAsYDQ.jpg" width="50%" />
 
-## PyBLOCK BOLT12
-
-<br />
-
-<img src="https://pbs.twimg.com/media/GRwZpFlacAAwZ9b.jpg" width="50%" />
-
 ## SUPPORT PyBLØCK.
 
 Address:
@@ -409,21 +403,3 @@ Message:
 Signature:
 
 “G36i/w72LGkUFSrA+/IuaCeRvXUjWIhgMw3FkNucXA3GQRn5RZPFVQ3nJscq1nRjtyK4JoMVG/pM1wQfqS+2+TQ=”
-
-Other options:
-
-Bolt12: ⚡️ holycherry05@phoenixwallet.me ⚡️
-
-Bitcoin Address: bc1prwjajvvax2rkm2wzelpfzzc2ncywht69pswnurhzdfj9qujhyxzsqpd3eg
-
-<img src="/pybitblock/images/bitcoin-donation.png" width="30%" />
-
-Samourai Wallet Paynym: PM8TJhNTTq3YVocXuPtLjKx7pKkdUxqwTerWJ2j2a7dNitgyMmBPN6gK61yE17N2vgvQvKYokXktt6D6GZFTmocvDJhaUJfHt7ehEMmthjsT3NQHseFM
-
-<img src="/pybitblock/images/codeimage.png" width="30%" />
-
-Monero: 42jtb4dAfm6BQ8h6x56qGyAMMHVXGRwRMTSb2LwsBg1jVqD4TxfpD1pTK56tkrTMGhEKipZdDHfJrB1g8iQfvSyC7gZ9M8M
-
-<img src="/pybitblock/images/qrcode.png" width="20%" />
-
-PyBLØCK [Nostr Pulic Channel](https://anigma.io/?channel=ddadf6518d23d5e82a112b7965807ea2adfb22ec353a124fbf5f342e8403fdcb)
